@@ -5,7 +5,7 @@
 *   高速稳定
 
 
-[申请使用]<iam_cloudgateway@163.com>
+[申请使用](<iam_cloudgateway@163.com>)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
