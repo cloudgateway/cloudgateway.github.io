@@ -5,7 +5,7 @@
 *   高速稳定
 
 
-[申请使用](<iam_cloudgateway@163.com>)
+申请试用请联系我们，电子邮箱<iam_cloudgateway#163.com>('#'替换为'@')
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
